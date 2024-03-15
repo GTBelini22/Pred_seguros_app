@@ -7,7 +7,7 @@ st.set_page_config(
     page_title = "Predição de seguro de saúde",
     page_icon = "img\stethoscope.png"
 )
-st.sidebar.header('Descrição Projeto')
+# st.sidebar.header('Descrição Projeto')
 
 # Titulo da página
 st.title('Sobre o Projeto e como funciona')
@@ -45,5 +45,26 @@ st.markdown(
     foi visto que o Gradient Boost Regressor performou melhor que todos e sendo esse o escolhido para o tunning,
     que é um modo de tentar encontrar ainda melhores parametros dentro desse método, ao final o modelo conseguiu um R2 de 86%.
     
+    """
+)
+
+st.markdown(
+    """
+    # 4 - Deploy
+    Para realizar a implantação deste modelo, utilizamos Pipelines,
+    uma série de etapas organizadas que processam dados automaticamente.
+    Assim, conseguimos exportar o modelo com a biblioteca Pickle e integrá-lo em uma aplicação para o cliente usando o Streamlit,
+    uma ferramenta que cria sites com Python e é hospedada por ela mesma.
+    """
+)
+
+
+st.markdown(
+    """
+    # 4 - Links
+    Autor: https://www.linkedin.com/in/gustavo-belini2200224055/
+    \n
+    Git Hub: https://github.com/GTBelini22
+
     """
 )

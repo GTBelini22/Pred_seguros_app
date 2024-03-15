@@ -7,7 +7,7 @@ st.set_page_config(
     page_title = "Predição de seguro de saúde",
     page_icon = "img\stethoscope.png"
 )
-st.sidebar.header('Predição de Arquivo')
+# st.sidebar.header('Predição de Arquivo')
 
 # Titulo da página
 st.title('Predição de seguro de saúde usando um arquivo csv')

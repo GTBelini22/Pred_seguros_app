@@ -7,7 +7,7 @@ st.set_page_config(
     page_icon = "img\stethoscope.png"
 )
 
-st.sidebar.header('Descrição do porjeto')
+# st.sidebar.header('Descrição do projeto')
 
 st.write('# Bem vindo ao Predição de seguro de saúde🩺')
 st.write('\n\n')
