@@ -23,7 +23,7 @@ var_smoker = st.selectbox(label='Fumante', options=['Sim', 'Não'])
 
 # modelo de dados
 # Impotando o Pickle do nosso projeto
-# models\model.pkl
+# models\model.pkl 
 caminho_arq = 'models\model.pkl'
 with open(caminho_arq, 'rb') as model_file:
     model = pickle.load(model_file)
