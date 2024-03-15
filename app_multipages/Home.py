@@ -4,7 +4,7 @@ import streamlit as st
 
 st.set_page_config(
     page_title = "Predição de seguro de saúde",
-    page_icon = "img\stethoscope.png"
+    page_icon = "../img/stethoscope.png"
 )
 
 # st.sidebar.header('Descrição do projeto')
