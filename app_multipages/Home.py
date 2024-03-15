@@ -12,7 +12,7 @@ st.set_page_config(
 st.write('# Bem vindo ao Predição de seguro de saúde🩺')
 st.write('\n\n')
 
-st.image('img\health_insurance_img.jpg')
+st.image('../img/health_insurance_img.jpg')
 st.write('\n\n')
 
 
