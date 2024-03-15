@@ -13,7 +13,7 @@ st.set_page_config(
 st.title('Predição de seguro de saúde usando um arquivo csv')
 
 # -- model -- #
-caminho_arq = 'models\model.pkl'
+caminho_arq = '../models/model.pkl'
 with open(caminho_arq, 'rb') as model_file:
     model =  pickle.load(model_file)
     
