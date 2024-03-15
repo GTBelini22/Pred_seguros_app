@@ -12,12 +12,12 @@ st.sidebar.header('Calcular o Seguro')
 # Titulo da página
 st.title('Predição de seguro de saúde')
 
-st.markdown("Predição do seguro de saúde a partir das seguintes métricas:")
+st.markdown("Métricas Necessárias para a predição:")
 
 # Parametros
 # Esses valores de máximos e minimo são referentes ao dataset que foi feita a analise 
 var_age= st.number_input(label='Idade', value=18, min_value=18, max_value=120)
-var_bmi = st.number_input(label='BMI', value=30.0)
+var_bmi = st.number_input(label='IMC', value=30.0)
 var_children = st.slider(label='Número filhos', min_value=0, max_value=5)
 var_smoker = st.selectbox(label='Fumante', options=['Sim', 'Não'])
 
