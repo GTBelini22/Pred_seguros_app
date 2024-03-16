@@ -5,10 +5,9 @@
     <img alt='Pandas' src='https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white'>
     <img alt='Jupyter' src='https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white'>
 
-
 </div><br>
-# Sobre o repositório
 
+# Sobre o repositório
 Projeto de machine learning para prever valores de seguro, utilizando o Streamlit para criar um site personalizado ao cliente. Este desafio foi enfrentado durante  **Formação em dados** da DNC, uma trilha completa sobre a área de dados e aplicações reais a qual estou cursando. [DNC](https://www.escoladnc.com.br/ "Site da DNC")
 
 

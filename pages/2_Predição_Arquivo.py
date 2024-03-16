@@ -10,7 +10,7 @@ st.set_page_config(
 # st.sidebar.header('Predição de Arquivo')
 
 # Titulo da página
-st.title('Predição de seguro de saúde usando um arquivo csv')
+st.title('Predição de seguro de saúde usando um arquivo .csv')
 
 # -- model -- #
 caminho_arq = 'models/model.pkl'
