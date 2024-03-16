@@ -25,7 +25,7 @@ st.markdown(
        as empresas de seguros podem estabelecer taxas de prêmio precisas e alocar recursos 
        de maneira eficiente. Isso também permite que pessoas de alto 
        risco recebam os recursos e o apoio necessários.
-       Em suma previsão de seguro médico é uma ferramenta valiosa tanto para pacientes quanto para provedores 
+       Em suma, previsão de seguro médico é uma ferramenta valiosa tanto para pacientes quanto para provedores 
        em um sistema de saúde sustentável.
        
         Este aplicativo tem como objetivo prever o custo do seguro usando características de entrada como:

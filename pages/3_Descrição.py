@@ -14,7 +14,7 @@ st.title('Sobre o Projeto e como funciona')
 
 st.markdown(
     """
-    # 1 - Sobre \nEste projeto foi concebido como um desafio da Formaçãoem dados da escola DNC, 
+    # 1 - Sobre \nEste projeto foi concebido como um desafio da Formação em dados da escola DNC, 
     com o propósito de desenvolver um modelo de aprendizado de máquina que pudesse estimar o valor do seguro com base nos dados individuais.
     O modelo deveria ser treinado com informações históricas da seguradora do ramo de saúde.
      """
